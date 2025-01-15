@@ -1,5 +1,5 @@
 Salat Tracker: 
-a Progressive Web App that provides Muslim prayer time based on city you provide. The app uses a combination of Flask (python) backend, aladhan api for prayer times, and PWA manifest and service work to ensure offline support and mobile friendly eature.
+  a Progressive Web App that provides Muslim prayer time based on city you provide. The app uses a combination of Flask (python) backend, aladhan api for prayer times, and PWA   manifest and service work to ensure offline support and mobile friendly eature.
 
 Features:
   1. Fetch Selat time for any city based on user's input.
